@@ -1,6 +1,5 @@
-### Hi there 👋
-🤔 Hard questions and issues i'm interested in:
-what  the correct metrics of productivity?
+Hard questions and issues: 
+1. what the correct metrics of productivity?
 
 <!--
 **mind180/mind180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
