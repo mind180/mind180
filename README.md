@@ -1,6 +1,6 @@
 Hard questions and issues: 
 1. What the correct metrics of productivity?
-2. Where the limit of productivity?
+2. Where the limit of productivity? 
 Does it question make sense?
 
 <!--
