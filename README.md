@@ -1,7 +1,4 @@
-Hard questions and issues: 
-1. What the correct metrics of productivity?
-2. Where the limit of productivity? 
-Does it question make sense?
+Hard questions and issues:
 
 <!--
 **mind180/mind180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
