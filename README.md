@@ -1,5 +1,4 @@
 ✔ I'm working on right now: <a href='https://github.com/mind180/roadmapex'>roadmapex</a>.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!--
 **mind180/mind180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
