@@ -1,5 +1,4 @@
-I ❤️ NullPointerException
-
+Everything is a #pattern
 <!--
 **mind180/mind180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
